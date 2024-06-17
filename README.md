@@ -17,4 +17,5 @@ As a key member of the development team, I was actively involved in the end-to-e
 - Successfully delivered LearnSprare within the stipulated timeframe, meeting all project milestones.
 - Received positive feedback from team members for the efficiency and quality of the backend implementation. 
 - Implemented additional features, such as real-time progress tracking and user engagement analytics, to enhance the platform's functionality.
-### Impact of the Project: LearnSprare has revolutionized the online learning experience, providing educators with an intuitive platform to deliver engaging content and enabling learners to acquire knowledge effectively. The system's user-friendly interface and robust backend architecture have contributed to increased user satisfaction and improved learning outcomes. 
+### Impact of the Project
+LearnSprare has revolutionized the online learning experience, providing educators with an intuitive platform to deliver engaging content and enabling learners to acquire knowledge effectively. The system's user-friendly interface and robust backend architecture have contributed to increased user satisfaction and improved learning outcomes. 
