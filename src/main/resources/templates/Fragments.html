@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head th:fragment="head(title)">
+<meta charset="ISO-8859-1">
+
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+	crossorigin="anonymous" >
+<link href="/css/Custom.css" rel="stylesheet">
+<title th:text="${title}">Learn Sphare</title>
+</head>
+<body>
+
+	<div class="container text-center border border-danger" th:fragment="header">
+
+		<nav class=" h2 border border-primary mt-4" >
+			<div class=" navbar-brand row border border-secondary">
+			<div class="col-4 border border-success">
+			<a class="d-flex justify-content-start btn border-warning" href="/"><img src="/icons/house.svg" height="30px"></a></div>
+			
+			<div class="col-8 border border-success h1">
+			 Learn Sphare</div>
+			</div>	
+		</nav>
+		
+	</div>
+</body>
+</html>
